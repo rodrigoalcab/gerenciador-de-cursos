@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bc9c0de8-7bfc-44e9-bfb3-baae2a7bffe3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/ControllerComHtml.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ControllerComHtml.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Usuario.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Usuario.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/RealizaLogin.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/RealizaLogin.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +87,7 @@
       <workItem from="1575120249075" duration="666000" />
       <workItem from="1575144124757" duration="5422000" />
       <workItem from="1575193709601" duration="650000" />
-      <workItem from="1575199362001" duration="2684000" />
+      <workItem from="1575199362001" duration="4412000" />
     </task>
     <servers />
   </component>
