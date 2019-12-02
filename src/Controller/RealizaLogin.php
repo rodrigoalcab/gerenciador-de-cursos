@@ -11,7 +11,7 @@ use Alura\Cursos\Infra\EntityManagerCreator;
 class RealizaLogin implements InterfaceControladorRequisicao
 {
     use FlashMessageTrait;
-    
+
     /**
      * @var \Doctrine\Common\Persistence\ObjectRepository
      */
